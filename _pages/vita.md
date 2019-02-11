@@ -11,7 +11,7 @@ Artificial Intelligence Consultant
 <br/>@ coac, Berlin
 
 ###### technologies_
-python, R, sql, nifi, docker
+python, r, sql, nifi, docker
 ###### frameworks_ 
 keras, tensorflow, scikit-learn, spacy, nltk
 
@@ -27,7 +27,7 @@ Proof of Concept Data Warehouse Solution
 <br/>@ Vimcar, Berlin
 
 ###### technologies_
-R, sql, excel, python
+r, sql, excel, python
 
 Bachelor of Science Business Information Systems 
 <br/>@ Hochschule Bonn-Rhein-Sieg, Sankt Augustin
