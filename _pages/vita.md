@@ -36,8 +36,8 @@ Bachelor of Science Business Information Systems
 
 IT specialist 
 <br/>@ Bundesminsiterium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), Bonn / Berlin
-<br/><img src="/assets/images/BMZ.png" width="100">
+<br/><img src="/assets/images/BMZ.png" width="140">
 
 Integrated Systems Consultant 
 <br/>@ Siemens, Paderborn
-<br/><img src="/assets/images/siemens.png " width="70">
+<br/><img src="/assets/images/siemens.png " width="80">
