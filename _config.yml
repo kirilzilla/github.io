@@ -7,14 +7,14 @@
 
 # Site Settings
 theme                    : minimal-mistakes-jekyll
-locale                   : "en"
+locale                   : "de"
 title                    : "Standard Deviations"
 title_separator          : "-"
-name                     : "David Ziganto"
-description              : "Musings in machine learning, data science, and artificial intelligence."
-url                      : "https://dziganto.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Kiril Mu"
+description              : "machine learning, data analytics, and artificial intelligence."
+url                      : "https://kirilzilla.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://kirilzilla.github.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "David Ziganto"
+  name             : "Kiril Mu"
   avatar           : /assets/images/head_shot.jpg
-  bio              : "Senior Data Scientist"
-  location         : "Chicago"
-  email            : "ziganto.david@gmail.com"
+  bio              : "Data Science Fundamentals"
+  location         : "Berlin"
+  email            : "kirilm@me.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,12 +90,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dziganto/Data_Science_Fundamentals"
+  github           : "kirilzilla.github.io"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "persohna2"
   lastfm           :
-  linkedin         : "dziganto"
+  linkedin         : "kirilmurschel"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
