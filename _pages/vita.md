@@ -9,6 +9,7 @@ résumé
 # present
 Artificial Intelligence Consultant 
 <br/>@ coac, Berlin
+image: /assets/images/coac.jpg
 
 ###### technologies_
 python, r, sql, nifi, docker
