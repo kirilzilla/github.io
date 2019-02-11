@@ -20,7 +20,7 @@ keras, tensorflow, scikit-learn, spacy, nltk
 
 Automated Customer Retention with Artificial Neural Networks 
 <br/>@ Crowd Intelligence Institute, Cologne
-<br/><img src="/assets/images/cii.jpg" width="50">
+<br/><img src="/assets/images/cii.jpg" width="40">
 
 ###### technologies_
 python, tensorflow, nifi, docker
@@ -36,8 +36,8 @@ Bachelor of Science Business Information Systems
 
 IT specialist 
 <br/>@ Bundesminsiterium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), Bonn / Berlin
-<br/><img src="/assets/images/BMZ.png" width="50">
+<br/><img src="/assets/images/BMZ.png" width="100">
 
 Integrated Systems Consultant 
 <br/>@ Siemens, Paderborn
-<br/><img src="/assets/images/siemens.png " width="50">
+<br/><img src="/assets/images/siemens.png " width="70">
