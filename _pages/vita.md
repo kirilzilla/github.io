@@ -10,10 +10,16 @@ résumé
 Artificial Intelligence Consultant 
 <br/>@ coac, Berlin
 
+# tools
+Python, R, SQL, NiFi, Docker, TensorFlow
+
 ## past
 
 Automated Customer Retention with Artificial Neural Networks 
 <br/>@ Crowd Intelligence Institute, Cologne
+
+### tools
+Python, R, SQL, NiFi, Docker, TensorFlow
 
 Proof of Concept Data Warehouse Solution
 <br/>@ Vimcar, Berlin
