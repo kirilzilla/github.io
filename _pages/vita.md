@@ -11,7 +11,7 @@ Artificial Intelligence Consultant
 <br/>@ coac, Berlin
 <br/><img src="/assets/images/coac.jpg" width="50">
 
-###### technologies_
+#### technologies_
 python, r, sql, nifi, docker, spark, hadoop <br/>
 keras, tensorflow, scikit-learn, spacy, nltk
 
@@ -21,14 +21,8 @@ Automated Customer Retention with Artificial Neural Networks
 <br/>@ Crowd Intelligence Institute, Cologne
 <br/><img src="/assets/images/cii.jpg" width="40">
 
-###### technologies_
-python, tensorflow, nifi, docker
-
 Proof of Concept Data Warehouse Solution
 <br/>@ Vimcar, Berlin
-
-###### technologies_
-r, sql, excel, python
 
 Bachelor of Science Business Information Systems 
 <br/>@ Hochschule Bonn-Rhein-Sieg, Sankt Augustin
