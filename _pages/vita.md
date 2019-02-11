@@ -11,12 +11,17 @@ Berlin - Artificial Intelligence Consultant @ coac
 
 ## past
 
-Cologne - Automated Customer Retention with Artificial Neual Networks @ Crowd Intelligence Institute
+Automated Customer Retention with Artificial Neural Networks 
+@ Crowd Intelligence Institute, Cologne
 
-Berlin - Proof of Concept Data Warehouse Solution @ Vimcar
+Proof of Concept Data Warehouse Solution
+@ Vimcar, Berlin
 
-Sankt Augustin - Bachelor of Science Business Information Systems @ Hochschule Bonn-Rhein-Sieg
+Bachelor of Science Business Information Systems 
+@ Hochschule Bonn-Rhein-Sieg, Sankt Augustin
 
-Bonn / Berlin - IT specialist @ Bundesminsiterium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)
+IT specialist 
+@ Bundesminsiterium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), Bonn / Berlin
 
-Paderborn - Integrated Systems Consultant @ Siemens
+Integrated Systems Consultant 
+@ Siemens, Paderborn
