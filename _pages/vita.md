@@ -13,16 +13,16 @@ Artificial Intelligence Consultant
 ## past
 
 Automated Customer Retention with Artificial Neural Networks 
-</br>@ Crowd Intelligence Institute, Cologne
+<br/>@ Crowd Intelligence Institute, Cologne
 
 Proof of Concept Data Warehouse Solution
-</br>@ Vimcar, Berlin
+<br/>@ Vimcar, Berlin
 
 Bachelor of Science Business Information Systems 
-</br>@ Hochschule Bonn-Rhein-Sieg, Sankt Augustin
+<br/>@ Hochschule Bonn-Rhein-Sieg, Sankt Augustin
 
 IT specialist 
-</br>@ Bundesminsiterium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), Bonn / Berlin
+<br/>@ Bundesminsiterium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), Bonn / Berlin
 
 Integrated Systems Consultant 
-</br>@ Siemens, Paderborn
+<br/>@ Siemens, Paderborn
