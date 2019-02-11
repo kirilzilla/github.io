@@ -8,7 +8,7 @@
 # Site Settings
 theme                    : minimal-mistakes-jekyll
 locale                   : "de"
-title                    : "Standard Deviations"
+title                    : "Standardabweichung"
 title_separator          : "-"
 name                     : "Kiril Mu"
 description              : "machine learning, data analytics, and artificial intelligence."
