@@ -23,11 +23,11 @@ Automated Customer Retention with Artificial Neural Networks
 
 Proof of Concept Data Warehouse Solution
 <br/>@ Vimcar, Berlin
-<br/><img src="/assets/images/vimcar.jpg" width="40">
+<br/><img src="/assets/images/vimcar.png" width="100">
 
 Bachelor of Science Business Information Systems 
 <br/>@ Hochschule Bonn-Rhein-Sieg, Sankt Augustin
-<br/><img src="/assets/images/hsbrs.gif" width="40">
+<br/><img src="/assets/images/hsbrs.gif" width="170">
 
 IT specialist 
 <br/>@ Bundesminsiterium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ), Bonn / Berlin
