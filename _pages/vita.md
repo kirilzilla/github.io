@@ -10,10 +10,9 @@ résumé
 Artificial Intelligence Consultant 
 <br/>@ coac, Berlin
 
-### technologies
-Python, R, SQL, NiFi, Docker
-### frameworks
-Keras, TensorFlow, scikit-learn, SpaCy, NLTK
+###### technologies: Python, R, SQL, NiFi, Docker
+#### frameworks_ 
+keras, tensorflow, scikit-learn, spacy, nltk
 
 ## past
 
