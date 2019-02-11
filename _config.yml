@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Kiril Mu"
-  avatar           : /assets/images/head_shot.jpg
+  avatar           : /assets/head_shot.jpg
   bio              : "Data Science Fundamentals"
   location         : "Berlin"
   email            : "kirilm@me.com"
