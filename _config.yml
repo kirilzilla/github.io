@@ -10,7 +10,7 @@ theme                    : minimal-mistakes-jekyll
 locale                   : "en"
 title                    : "--k"
 title_separator          : "-"
-name                     : "Kiril M"
+name                     : "kiril"
 description              : "machine learning, data analytics, and artificial intelligence."
 url                      : "https://kirilzilla.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kiril M."
+  name             : "kiril"
   avatar           : /assets/head_shot.png
-  bio              : "Data Science Fundamentals"
+  bio              : "a.i."
   location         : "Berlin"
   email            : ""
   uri              :
