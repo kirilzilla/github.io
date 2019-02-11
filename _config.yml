@@ -10,7 +10,7 @@ theme                    : minimal-mistakes-jekyll
 locale                   : "en"
 title                    : "Standardabweichung"
 title_separator          : "-"
-name                     : "Kiril Mu"
+name                     : "Kiril M."
 description              : "machine learning, data analytics, and artificial intelligence."
 url                      : "https://kirilzilla.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
