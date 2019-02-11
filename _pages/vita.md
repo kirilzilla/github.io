@@ -6,27 +6,28 @@ author_profile: true
 
 résumé
 
-## present
+# present
 Artificial Intelligence Consultant 
 <br/>@ coac, Berlin
 
-###### technologies: Python, R, SQL, NiFi, Docker
-#### frameworks_ 
+###### technologies_
+python, R, sql, nifi, docker
+###### frameworks_ 
 keras, tensorflow, scikit-learn, spacy, nltk
 
-## past
+# past
 
 Automated Customer Retention with Artificial Neural Networks 
 <br/>@ Crowd Intelligence Institute, Cologne
 
-### tools
-Python, NiFi, Docker, TensorFlow
+###### technologies_
+python, tensorflow, nifi, docker
 
 Proof of Concept Data Warehouse Solution
 <br/>@ Vimcar, Berlin
 
-### technologies
-R, SQL, Excel, Python
+###### technologies_
+R, sql, excel, python
 
 Bachelor of Science Business Information Systems 
 <br/>@ Hochschule Bonn-Rhein-Sieg, Sankt Augustin
