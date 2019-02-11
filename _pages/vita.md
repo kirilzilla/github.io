@@ -12,8 +12,7 @@ Artificial Intelligence Consultant
 <br/><img src="/assets/images/coac.jpg" width="50">
 
 ###### technologies_
-python, r, sql, nifi, docker
-###### frameworks_ 
+python, r, sql, nifi, docker, spark, hadoop <br/>
 keras, tensorflow, scikit-learn, spacy, nltk
 
 # past
