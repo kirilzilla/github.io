@@ -8,7 +8,7 @@ résumé
 
 ## present
 Artificial Intelligence Consultant 
-</br>@ coac, Berlin
+<br/>@ coac, Berlin
 
 ## past
 
